@@ -1,0 +1,21 @@
+[
+  "tests/test_answer_matching.py::test_answer_key_parsing_and_matching",
+  "tests/test_answer_matching.py::test_uncertain_answer_label_mismatch",
+  "tests/test_api_endpoints.py::test_auth_workflow",
+  "tests/test_api_endpoints.py::test_health_endpoints",
+  "tests/test_api_endpoints.py::test_unauthorized_access",
+  "tests/test_confidence_and_review.py::test_confidence_scoring_factors",
+  "tests/test_confidence_and_review.py::test_review_service_issue_generation",
+  "tests/test_document_validation.py::test_document_extension_validation",
+  "tests/test_document_validation.py::test_document_mime_validation",
+  "tests/test_document_validation.py::test_document_size_limit",
+  "tests/test_multipage_questions.py::test_question_spanning_across_pages",
+  "tests/test_option_extraction.py::test_horizontal_options",
+  "tests/test_option_extraction.py::test_letter_closing_paren_options",
+  "tests/test_option_extraction.py::test_letter_dot_options",
+  "tests/test_option_extraction.py::test_numeric_options",
+  "tests/test_option_extraction.py::test_parenthesized_options",
+  "tests/test_question_extraction.py::test_q_style_numbering_extraction",
+  "tests/test_question_extraction.py::test_question_without_number",
+  "tests/test_question_extraction.py::test_standard_numbering_extraction"
+]
